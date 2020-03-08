@@ -1,0 +1,42 @@
+{
+  "name": "react-neumorphism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteyycz/react-neumorphism.git"
+  },
+  "keywords": ["react", "neumorphism", "neumorphic", "ui-kit", "framework"],
+  "author": "Peter Czibik <p.czibik@gmail.com> (http://twitter.com/peteyycz)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/peteyycz/react-neumorphism/issues"
+  },
+  "homepage": "https://github.com/peteyycz/react-neumorphism#readme",
+  "peerDependencies": {
+    "react": "16.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.8.7",
+    "@storybook/addon-actions": "5.3.14",
+    "@storybook/addon-info": "5.3.14",
+    "@storybook/addon-links": "5.3.14",
+    "@storybook/addons": "5.3.14",
+    "@storybook/react": "5.3.14",
+    "@types/jest": "25.1.4",
+    "babel-loader": "8.0.6",
+    "jest": "25.1.0",
+    "react": "16.13.0",
+    "react-docgen-typescript-loader": "3.7.0",
+    "ts-jest": "25.2.1",
+    "ts-loader": "6.2.1",
+    "typescript": "3.8.3"
+  },
+  "dependencies": {}
+}
