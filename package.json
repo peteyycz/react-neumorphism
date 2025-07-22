@@ -41,7 +41,7 @@
     "@types/jest": "25.1.4",
     "@types/styled-components": "5.0.1",
     "babel-loader": "8.0.6",
-    "jest": "25.1.0",
+    "jest": "30.0.4",
     "react": "16.13.0",
     "react-docgen-typescript-loader": "3.7.0",
     "ts-jest": "25.2.1",
