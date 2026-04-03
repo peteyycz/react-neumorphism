@@ -36,7 +36,7 @@
     "@storybook/addon-info": "5.3.14",
     "@storybook/addon-links": "5.3.14",
     "@storybook/addons": "5.3.14",
-    "@storybook/react": "5.3.14",
+    "@storybook/react": "10.2.14",
     "@types/chroma-js": "2.0.0",
     "@types/jest": "25.1.4",
     "@types/styled-components": "5.0.1",
